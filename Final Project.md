@@ -31,7 +31,14 @@ In certain situations, it can have better performance over full virtualization. 
 Similar to full virtualization, but supported at the hardware architecture level. This means that the hardware facilitates building a virtual machines and allows the virtual machine to run in isolation.
 
 ### How to install Ubuntu
-1.Open VMwareFusion
+1. First you need to download your virtualization software. You can download VMware fusion [here.](https://www.vmware.com/products/fusion/fusion-evaluation.html) You can download Fusion or Fusion 10. Either one will work for this tutorial.
+
+2. Next you will need to download the Ubuntu ISO file. You can download it [here.](https://www.ubuntu.com/download/desktop).
+
+3. Open up VMware Fusion and this window should pop up.
+
+[step3]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step3.png
+
 2.Click “File”, “New...”,select “Install from disc or image”, then click “Continue”
 3.Click “Use another disc or disc image...” and browse to your ISO file, click “Open”, then click “Continue”
 4.Ensure that the “Use Easy Install” box is checked, fill in the required info, then click “Continue”
@@ -45,14 +52,3 @@ Similar to full virtualization, but supported at the hardware architecture level
 
 
 
-
-
-
-**bold text**
-
-*italicized text*
-
-~~Strikethrough text~~
----
-###horizontal rule ^^
----
