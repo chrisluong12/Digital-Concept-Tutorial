@@ -27,7 +27,7 @@ In certain situations, it can have better performance over full virtualization. 
 
 ### **Hardware Assisted Virtualization**
 Similar to full virtualization, but supported at the hardware architecture level. This means that the hardware facilitates building a virtual machines and allows the virtual machine to run in isolation.
-
+---
 ### How to install Ubuntu
 First you need to download your virtualization software. You can download VMware fusion [here.](https://www.vmware.com/products/fusion/fusion-evaluation.html) You can download Fusion or Fusion 10. Either one will work for this tutorial.
 
@@ -81,6 +81,7 @@ Just click your Username and sign in with the password you set up during the ins
 ![pic of step10][step10]
 
 [step10]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step10.png
+---
 
 
 
