@@ -1,4 +1,4 @@
-# **Virtual Machines and how to set up a linux virtual machine up on your Mac**
+# **Virtual Machines and how to set one up on your Mac**
 ## by Christopher Luong
 ---
 
