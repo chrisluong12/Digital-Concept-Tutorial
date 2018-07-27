@@ -69,10 +69,23 @@ Ensure that the “Use Easy Install” box is checked, fill in the required info
 
 [step7]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step7.png
 
-Now all you need to do is click the "Finish" Button and your virutalization software (VMware fusion) will set up your virtual machine!
+Now all you need to do is click the "Finish" Button and your virutalization software (VMware fusion) will set up your virtual machine! (This may take a while).
 ![pic of step8][step8]
 
 [step8]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step8.png
+
+Once your VM is finished setting up you should be greeted with this screen.
+![pic of step9][step9]
+
+[step9]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step9.png
+
+Just click your Username and sign in with the password you set up during the installation process and voila! You have a linux OS on your mac!
+![pic of step10][step10]
+
+[step10]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step10.png
+
+
+
 
 
 
