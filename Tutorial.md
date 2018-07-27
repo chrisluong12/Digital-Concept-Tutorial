@@ -7,12 +7,13 @@ Go back to the [home page](/README.md/).
 ## **What is a virtual machine?**
 ![image](https://cdn1.macworld.co.uk/cmsdata/features/3637265/how_to_install_linux_on_mac_thumb800.jpg)
 
-Virtual Machines (VM) are incredibly important for the developers of today. They allow you to emulate an entire system within your host OS which will
-allow you to do many things. Before the existence of Virtual Machines, developers had to buy multiple pieces of hardware that could cost thousands of dollars that
-a single laptop could do now.
+Virtual Machines (VM) are incredibly important for the developers of today. They allow you to emulate an entire system within your host OS which will allow you to do many things. Before the existence of Virtual Machines, developers had to buy multiple pieces of hardware that could cost thousands of dollars that a single laptop could do now.
+
+The beauty of VM's is that it is "sandboxed" from the rest of your system. This means that that the software inside the VM cannot tamper with the rest of your system. This makes it safe to mess with experimental app or websites so that it will not break your host OS. 
 
 Virtual Machines are managed by virtualization software. VMware is the post popular and will be used as an example for this tutorial.
-They can be run directly on hardware, or alongside a host OS
+
+
 
 ## **Types of Virtualization**
 
@@ -27,8 +28,12 @@ In certain situations, it can have better performance over full virtualization. 
 
 ### **Hardware Assisted Virtualization**
 Similar to full virtualization, but supported at the hardware architecture level. This means that the hardware facilitates building a virtual machines and allows the virtual machine to run in isolation.
+
+### **So Why Ubuntu?**
+Ubuntu is completely free and open source. It is produced by Canocial which provides free guaranteed security updates and support. It also comes with a lot of software upon installation like Firefox, Amazon, and even some games like Sudoku and chess. What makes it so incredible is the community that continues to work together to improve the product. If you have any problems at all, you can list it in the forum and you will get advice from the more skilled users.
+
 ---
-### How to install Ubuntu
+### How To Install Ubuntu
 First you need to download your virtualization software. You can download VMware fusion [here.](https://www.vmware.com/products/fusion/fusion-evaluation.html) You can download Fusion or Fusion 10. Either one will work for this tutorial.
 
 Next you will need to download the Ubuntu ISO file. You can download it [here.](https://www.ubuntu.com/download/desktop).
@@ -81,6 +86,11 @@ Just click your Username and sign in with the password you set up during the ins
 ![pic of step10][step10]
 
 [step10]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step10.png
+
+Now that you have your own virtual machine, go ahead and play around with it. Try to poke around and even break it if you'd like! Remember, this virtual machine is sandboxed from your system and will not affect it. 
+
+I hope this tutorial was helpful to you. 
+
 ---
 
 
