@@ -31,24 +31,49 @@ In certain situations, it can have better performance over full virtualization. 
 Similar to full virtualization, but supported at the hardware architecture level. This means that the hardware facilitates building a virtual machines and allows the virtual machine to run in isolation.
 
 ### How to install Ubuntu
-1. First you need to download your virtualization software. You can download VMware fusion [here.](https://www.vmware.com/products/fusion/fusion-evaluation.html) You can download Fusion or Fusion 10. Either one will work for this tutorial.
+First you need to download your virtualization software. You can download VMware fusion [here.](https://www.vmware.com/products/fusion/fusion-evaluation.html) You can download Fusion or Fusion 10. Either one will work for this tutorial.
 
-2. Next you will need to download the Ubuntu ISO file. You can download it [here.](https://www.ubuntu.com/download/desktop).
+Next you will need to download the Ubuntu ISO file. You can download it [here.](https://www.ubuntu.com/download/desktop).
 
-3. Open up VMware Fusion and this window should pop up.
+Open up VMware Fusion and this window should pop up.
 ![pic of step3][step3]
 
 [step3]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step3.png
 
-2.Click “File”, “New...”,select “Install from disc or image”, then click “Continue”
-3.Click “Use another disc or disc image...” and browse to your ISO file, click “Open”, then click “Continue”
-4.Ensure that the “Use Easy Install” box is checked, fill in the required info, then click “Continue”
+Click the "+" button on the menu button and click "New..." button as pictured above.
+
+This will take you to the Installation Screen as pictured below.
+![pic of step4][step4]
+
+[step4]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step4.png
+
+Click the "Install from disc or image" button or just drag your iso file on top of it.
+
+If you clicked the button, your screen should like this now.
+![pic of step5][ste5]
+
+[step5]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step5.png
+
+Go ahead and drag your iso file and it should pop up in the window like so:
+
+![pic of step6][step6]
+
+[step6]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step6.png
+
+Ensure that the “Use Easy Install” box is checked, fill in the required info, then click “Continue”
   *Set your display name
   *Set your account name
   *Set your desired password
 
-5.Click “Customize Settings”
-6.Save the virtual machine as whatever your desire
+![pic of step7][step7]
+
+[step7]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step7.png
+
+Now all you need to do is click the "Finish" Button and your virutalization software (VMware fusion) will set up your virtual machine!
+![pic of step8][step8]
+
+[step8]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step8.png
+
 
 
 
