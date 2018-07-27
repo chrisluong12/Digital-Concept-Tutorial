@@ -2,7 +2,7 @@
 ## by Christopher Luong
 ---
 
-Go back to the [home page](/Readme.md/).
+Go back to the [home page](/README.md/).
 
 ## **What is a virtual machine?**
 ![image](https://cdn1.macworld.co.uk/cmsdata/features/3637265/how_to_install_linux_on_mac_thumb800.jpg)
