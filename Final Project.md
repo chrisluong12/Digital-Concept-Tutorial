@@ -1,10 +1,8 @@
-# **Virtual Machines and how to set up a linux virtual machine up on your Mac**
+# **Installing the Linux OS on your Mac**
 ## by Christopher Luong
 ---
 
-## **Tutorial purpose**
-This tutorial explains the abilities of virtual machines and how to install Ubuntu on your mac.
-This tutorial is geared toward to people who are new to virtual machines and are interested in its capabilities.
+Go back to the [home page](/Readme.md/).
 
 ## **What is a virtual machine?**
 ![image](https://cdn1.macworld.co.uk/cmsdata/features/3637265/how_to_install_linux_on_mac_thumb800.jpg)
