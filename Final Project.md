@@ -37,6 +37,7 @@ Similar to full virtualization, but supported at the hardware architecture level
 
 3. Open up VMware Fusion and this window should pop up.
 ![pic of step3][step3]
+
 [step3]:https://github.com/chrisluong12/Digital-Concept-Tutorial/blob/master/images/Step3.png
 
 2.Click “File”, “New...”,select “Install from disc or image”, then click “Continue”
